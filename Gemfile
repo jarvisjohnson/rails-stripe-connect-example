@@ -12,6 +12,7 @@ gem 'coffee-rails'
 gem 'sass-rails', '~> 4.0.3'
 gem 'jquery-rails'
 gem 'bootstrap-sass', '~> 3.3.1'
+gem 'eventmachine', '~> 1.2.0.1'
 
 gem 'bcrypt', '~> 3.1.7'
 
